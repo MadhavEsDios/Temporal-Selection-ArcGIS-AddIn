@@ -1,0 +1,32 @@
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\bin\Release\AIS_AddIn.dll
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\bin\Release\AIS_AddIn.pdb
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\bin\Release\Newtonsoft.Json.dll
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\bin\Release\System.Windows.Interactivity.dll
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\bin\Release\Newtonsoft.Json.xml
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\CustomControl1.g.cs
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\TemporalSelectionDesign.g.cs
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\GeneratedInternalTypeHelper.g.cs
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn_MarkupCompile.cache
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn_MarkupCompile.lref
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\CustomControl1.baml
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\TemporalSelectionDesign.baml
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.g.resources
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.dll
+c:\users\madh9011\documents\visual studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.pdb
+C:\Users\madh9011\Documents\Visual Studio 2015\Projects\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.csprojResolveAssemblyReference.cache
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\bin\Release\AIS_AddIn.dll
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\bin\Release\AIS_AddIn.pdb
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\bin\Release\Newtonsoft.Json.dll
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\bin\Release\System.Windows.Interactivity.dll
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\bin\Release\Newtonsoft.Json.xml
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.csprojResolveAssemblyReference.cache
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\CustomControl1.g.cs
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\TemporalSelectionDesign.g.cs
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\GeneratedInternalTypeHelper.g.cs
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn_MarkupCompile.cache
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn_MarkupCompile.lref
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\CustomControl1.baml
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\TemporalSelectionDesign.baml
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.g.resources
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.dll
+\\UAENAS1\Admin\RasterSolutions\Interns\Madhav\ArcGISProAddIns\AIS_AddIn\AIS_AddIn\obj\Release\AIS_AddIn.pdb

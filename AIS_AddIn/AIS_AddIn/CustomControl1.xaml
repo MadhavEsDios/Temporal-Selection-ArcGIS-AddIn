@@ -1,0 +1,32 @@
+﻿<UserControl x:Class="AIS_AddIn.CustomControl1View"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:AIS_AddIn"
+             mc:Ignorable="d"
+             d:DesignWidth="300">
+
+    <StackPanel Background="White">
+        <TextBlock Text="Select Service:"/>
+        <ComboBox x:Name="Service" ItemsSource="{Binding ServiceList}" SelectedValue="{Binding SelectedService, Mode=TwoWay}">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="SelectionChanged">
+                    <i:InvokeCommandAction Command="{Binding ServiceSelectCommand}" 
+                                           CommandParameter="{Binding ElementName=Service, Path=SelectedValue}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ComboBox>
+
+        <TextBlock Text="Select RFT:"/>
+        <ComboBox x:Name="RFT" ItemsSource="{Binding RFTList}">
+            <i:Interaction.Triggers>
+                <i:EventTrigger EventName="SelectionChanged">
+                    <i:InvokeCommandAction Command="{Binding RFTSelectCommand}" 
+                                           CommandParameter="{Binding ElementName=RFT, Path=SelectedValue}"/>
+                </i:EventTrigger>
+            </i:Interaction.Triggers>
+        </ComboBox>
+    </StackPanel>
+</UserControl>
